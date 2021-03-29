@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.exe
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.deps.json
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.dll
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\bin\Debug\netcoreapp3.1\UserAvatar.pdb
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.dll
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.pdb
+G:\Lexicon\Kod test\Uppgift 16\UserAvatar\obj\Debug\netcoreapp3.1\UserAvatar.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.exe
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.deps.json
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.dll
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\bin\Debug\netcoreapp3.1\OddEvenArrays.pdb
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.dll
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.pdb
+G:\Lexicon\Kod test\Uppgift 14\OddEvenArrays\obj\Debug\netcoreapp3.1\OddEvenArrays.genruntimeconfig.cache

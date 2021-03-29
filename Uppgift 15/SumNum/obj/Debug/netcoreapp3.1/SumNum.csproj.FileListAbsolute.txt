@@ -1,0 +1,3 @@
+G:\Lexicon\Kod test\Uppgift 15\SumNum\obj\Debug\netcoreapp3.1\SumNum.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 15\SumNum\obj\Debug\netcoreapp3.1\SumNum.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 15\SumNum\obj\Debug\netcoreapp3.1\SumNum.csproj.CoreCompileInputs.cache
