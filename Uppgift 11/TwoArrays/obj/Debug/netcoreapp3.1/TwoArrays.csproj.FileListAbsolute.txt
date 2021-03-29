@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.exe
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.deps.json
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.dll
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\bin\Debug\netcoreapp3.1\TwoArrays.pdb
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.dll
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.pdb
+G:\Lexicon\Kod test\Uppgift 11\TwoArrays\obj\Debug\netcoreapp3.1\TwoArrays.genruntimeconfig.cache

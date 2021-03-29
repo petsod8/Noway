@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.exe
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.deps.json
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.dll
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\bin\Debug\netcoreapp3.1\Palindrom.pdb
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.dll
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.pdb
+G:\Lexicon\Kod test\Uppgift 12\Palindrom\obj\Debug\netcoreapp3.1\Palindrom.genruntimeconfig.cache

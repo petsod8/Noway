@@ -1,0 +1,12 @@
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.exe
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.deps.json
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.dll
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.pdb
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.dll
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.pdb
+G:\Lexicon\Kod test\Uppgift 13\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.genruntimeconfig.cache
