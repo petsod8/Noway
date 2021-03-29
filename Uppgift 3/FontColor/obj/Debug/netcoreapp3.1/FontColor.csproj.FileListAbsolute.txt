@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.exe
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.deps.json
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.dll
+G:\Lexicon\Kod test\Uppgift 3\FontColor\bin\Debug\netcoreapp3.1\FontColor.pdb
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.dll
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.pdb
+G:\Lexicon\Kod test\Uppgift 3\FontColor\obj\Debug\netcoreapp3.1\FontColor.genruntimeconfig.cache
