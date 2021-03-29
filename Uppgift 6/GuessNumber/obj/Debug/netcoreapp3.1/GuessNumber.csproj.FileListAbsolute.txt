@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.exe
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.deps.json
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.dll
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\bin\Debug\netcoreapp3.1\GuessNumber.pdb
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.dll
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.pdb
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.genruntimeconfig.cache
+G:\Lexicon\Kod test\Uppgift 6\GuessNumber\obj\Debug\netcoreapp3.1\GuessNumber.csprojAssemblyReference.cache

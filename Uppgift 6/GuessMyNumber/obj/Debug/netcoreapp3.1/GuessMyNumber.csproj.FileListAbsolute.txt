@@ -1,0 +1,4 @@
+G:\Lexicon\Kod test\Uppgift 6\GuessMyNumber\obj\Debug\netcoreapp3.1\GuessMyNumber.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 6\GuessMyNumber\obj\Debug\netcoreapp3.1\GuessMyNumber.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 6\GuessMyNumber\obj\Debug\netcoreapp3.1\GuessMyNumber.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 6\GuessMyNumber\obj\Debug\netcoreapp3.1\GuessMyNumber.csprojAssemblyReference.cache
