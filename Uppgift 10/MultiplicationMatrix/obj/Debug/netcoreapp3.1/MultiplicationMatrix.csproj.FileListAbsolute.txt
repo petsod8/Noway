@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.exe
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.deps.json
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.dll
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.pdb
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.dll
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.pdb
+G:\Lexicon\Kod test\Uppgift 10\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.exe
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.deps.json
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.dll
+G:\Lexicon\Kod test\Uppgift 9\Maths\bin\Debug\netcoreapp3.1\Calc.pdb
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.dll
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.pdb
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+G:\Lexicon\Kod test\Uppgift 9\Maths\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
