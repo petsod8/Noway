@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.exe
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.dll
+G:\Lexicon\Kod test\Uppgift 4\Date\bin\Debug\netcoreapp3.1\Date.pdb
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.dll
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.pdb
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache
+G:\Lexicon\Kod test\Uppgift 4\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache

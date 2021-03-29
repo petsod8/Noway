@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.exe
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.deps.json
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.dll
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.pdb
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.dll
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.pdb
+G:\Lexicon\Kod test\Uppgift 5\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.genruntimeconfig.cache
