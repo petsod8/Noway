@@ -1,0 +1,13 @@
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+G:\Lexicon\Kod test\Uppgift 1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
